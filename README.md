@@ -10,7 +10,7 @@ This is the frontend of the Transport Management System. It allows Admins, Dispa
 
 ---
 
-## Main Users for testing
+## Use these accounts to explore the app
 
 Username: admin  
 Password: admin 
@@ -20,6 +20,28 @@ Password: dispatcher
 
 Username: driver  
 Password: driver
+
+---
+Login page:
+
+![image](https://github.com/user-attachments/assets/b949d2e1-fbf6-4835-a7d6-a411e6d70d20)
+
+Users page:
+
+![image](https://github.com/user-attachments/assets/ddcfac16-781f-4436-aa4e-a5810220195b)
+
+User edit page:
+
+![image](https://github.com/user-attachments/assets/b869735e-3f52-4460-b738-bb788919abae)
+
+Dispatcher Dashboard:
+
+![image](https://github.com/user-attachments/assets/1795da07-8758-45e8-9688-3547bd42f709)
+
+Driver Dashboard with the message from dispatcher:
+
+![image](https://github.com/user-attachments/assets/034dc509-0130-4386-9062-e74b97db0c0b)
+
 
 ---
 
@@ -66,27 +88,4 @@ Password: driver
 
 - Profile and truck images are uploaded to **AWS S3** via the backend
 - AWS credentials are **not exposed** on the frontend
-
----
-Login page:
-
-![image](https://github.com/user-attachments/assets/b949d2e1-fbf6-4835-a7d6-a411e6d70d20)
-
-Users page:
-
-![image](https://github.com/user-attachments/assets/ddcfac16-781f-4436-aa4e-a5810220195b)
-
-User edit page:
-
-![image](https://github.com/user-attachments/assets/b869735e-3f52-4460-b738-bb788919abae)
-
-Dispatcher Dashboard:
-
-![image](https://github.com/user-attachments/assets/1795da07-8758-45e8-9688-3547bd42f709)
-
-Driver Dashboard with the message from dispatcher:
-
-![image](https://github.com/user-attachments/assets/034dc509-0130-4386-9062-e74b97db0c0b)
-
-
 

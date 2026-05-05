@@ -57,7 +57,7 @@ export default function Login() {
             </form>
             <br />
             <br />
-            <h4>Logins and passwords for testing</h4>
+            <h4>Use these accounts to explore the app</h4>
             admin | admin
             <br />
             dispatcher | dispatcher

@@ -1,6 +1,6 @@
 import axios from "axios";
 import { useError } from "./context/globalErrorContext/globalErrorContext";
-import { useLoading } from "./context/globalLoadingCintext/globalLoadingContext";
+import { useLoading } from "./context/globalLoadingContext/globalLoadingContext";
 
 const api = axios.create({
   baseURL: import.meta.env.VITE_BACKEND_BASE_URL, 
